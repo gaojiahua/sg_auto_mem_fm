@@ -1,0 +1,2 @@
+from centos7
+add ./bin /sgbin

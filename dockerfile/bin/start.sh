@@ -1,0 +1,1 @@
+/sgbin/sg_auto_mem_fm
